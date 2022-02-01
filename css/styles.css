@@ -480,7 +480,7 @@ footer .member-link:focus {
 
 .portfolio {
   padding-top: 94px;
-  padding-bottom: 30px;
+  padding-bottom: 94px;
 }
 
 .portfolio-list {
@@ -521,7 +521,6 @@ footer .member-link:focus {
 .example-list {
   flex-wrap: wrap;
   justify-content: space-between;
-  padding-bottom: 94px;
 }
 .example {
   background: #ffffff;
